@@ -1,5 +1,0 @@
-12. 財產申報查詢 
-https://mis.bankoftaipei.com.tw/CustomerEx/CustomerEx.aspx
-
-13. 欠稅人存款查詢
-https://mis.bankoftaipei.com.tw/CustomerTax/CTax.aspx
